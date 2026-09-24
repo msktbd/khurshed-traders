@@ -1,0 +1,7 @@
+node_modules
+dist
+android
+*.log
+.env
+.env.*
+!.env.example
